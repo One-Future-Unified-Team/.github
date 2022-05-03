@@ -1,0 +1,4 @@
+# Code Owner
+This files listed out all members that own and held responsiblility of all of Software and Website Developer Team projects and codes in this Github organization. All members in this files held the rights of all sorts included copyrights of the code and Github organization. 
+
+Software and Website Developer Tea (<a href="https://github.com/Jst-Tan">Jst Tan</a> and Lim Wei Bing) currently held full rights of this Github organization and all codes of this organization. Software and Website Developer Tea also held all reponsibility for all updates and maintainence the organization too. 
